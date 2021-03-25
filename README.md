@@ -20,7 +20,7 @@
 - [saphir](https://github.com/richerarc/saphir) : A progressive web framework with low-level control, without the pain.
 - [warp](https://github.com/seanmonstar/warp) : A super-easy, composable, web server framework for warp speeds.
 - [darpi](https://github.com/darpi-rs/darpi) : A rust web framework with safety and speed in mind.
-
+- [salvo](https://github.com/salvo-rs/salvo) : Simple web framework written by rust
 
 ## ORM
 

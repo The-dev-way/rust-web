@@ -4,13 +4,13 @@
 
 ## [Rust-web论坛](https://github.com/The-dev-way/rust-web/discussions)
 
-- [Web框架](#Web框架)
+- [WebFramework](#WebFramework)
 - [ORM](#orm)
 - [DB-Driver](#db-driver)
 - [Database](#database)
 - [Client/Wasm](#client-wasm)
 
-## Web框架
+## WebFramework
 
 - [actix-web](https://github.com/actix/actix-web) : Actix Web is a powerful, pragmatic, and extremely fast web framework
 - [ntex](https://github.com/ntex-rs/ntex) : framework for composable networking services

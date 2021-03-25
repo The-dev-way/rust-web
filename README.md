@@ -18,6 +18,9 @@
 - [Rocket](https://github.com/SergioBenitez/Rocket) :Rocket is web framework for Rust with a focus on ease-of-use, expressability, and speed.
 - [iron](https://github.com/iron/iron) : A middleware-based server framework
 - [saphir](https://github.com/richerarc/saphir) : A progressive web framework with low-level control, without the pain.
+- [warp](https://github.com/seanmonstar/warp) : A super-easy, composable, web server framework for warp speeds.
+- [darpi](https://github.com/darpi-rs/darpi) : A rust web framework with safety and speed in mind.
+
 
 ## ORM
 

@@ -23,7 +23,8 @@
 - [salvo](https://github.com/salvo-rs/salvo) : Simple web framework written by rust
 
 ## ORM
-
+ 
+- [elephantry](https://github.com/elephantry/elephantry) ——— PostgreSQL OMM for rust.  
 - [oxidizer](https://github.com/oxidizer-rs/oxidizer) ： 📦 A Rust ORM based on tokio-postgres and refinery
 - [storm](https://github.com/danylaporte/storm) : An in memory, database agnostic ORM written in rust.
 - [rbatis](https://github.com/rbatis/rbatis) : Rust ORM Framework High Performance Rust SQL-ORM(JSON based)

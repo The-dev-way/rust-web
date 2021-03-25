@@ -16,6 +16,10 @@
 
 - [postgres](https://github.com/sfackler/rust-postgres) : Native PostgreSQL driver for the Rust programming language
 - [sqlx](https://github.com/launchbadge/sqlx) : 🧰 The Rust SQL Toolkit. An async, pure Rust SQL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- []() : 
-- []() : 
+- [mongodb](https://github.com/mongodb/mongo-rust-driver) : The official MongoDB Rust Driver
+
+
+## Database
+
+- [sled](https://github.com/spacejam/sled) : the champagne of beta embedded databases
 - []() : 
